@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hey there!
 
-<!--
-**mgusti/mgusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer who enjoys building reliable systems and solving real-world problems — not just writing code, but making things actually work.
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- 🚀 Develop web applications (mainly backend-focused)  
+- ⚙️ Work with Laravel and modern web stacks  
+- 🐛 Debug and fix things that break in production  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Improving
+- Writing cleaner, more maintainable code  
+- Backend architecture & performance optimization  
+- Exploring better development workflows  
+
+### 🧠 Also Into
+- 🌐 Networking & system configuration (just enough to break and fix things 😄)  
+
+### 🤝 Open To
+- Collaboration on web projects  
+- Learning new tools & technologies  
+- Sharing knowledge and experiences  
+
+### 💬 Ask Me About
+- Laravel & backend development  
+- Debugging tricky issues  
+- Making systems more efficient  
+
+### ⚡ Fun Fact
+I enjoy solving problems that initially make zero sense — until they finally do.
+
+---
+
+> Build. Break. Fix. Repeat.
