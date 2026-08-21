@@ -28,7 +28,6 @@ I'm a web developer who enjoys building reliable systems and solving real-world 
 ### ⚡ Fun Facts
 - 🐱 Cat lover  
 - ☕ Black coffee enthusiast  
-- 🚭 Former smoker — quit for good  
 - 🏃 Enjoy jogging and casual walks  
 - 🤫 Introvert, but always up for a good conversation  
 
