@@ -4,7 +4,7 @@ I'm a web developer who enjoys building reliable systems and solving real-world 
 
 ### 💻 What I Do
 - 🚀 Develop web applications (mainly backend-focused)  
-- ⚙️ Work with Laravel and modern web stacks  
+- ⚙️ Work with React, Laravel and modern web stacks  
 - 🐛 Debug and fix things that break in production  
 
 ### 🌱 Currently Improving
@@ -21,15 +21,9 @@ I'm a web developer who enjoys building reliable systems and solving real-world 
 - Sharing knowledge and experiences  
 
 ### 💬 Ask Me About
-- Laravel & backend development  
+- React, Laravel & backend development  
 - Debugging tricky issues  
 - Making systems more efficient  
-
-### ⚡ Fun Facts
-- 🐱 Cat lover  
-- ☕ Black coffee enthusiast  
-- 🏃 Enjoy jogging and casual walks  
-- 🤫 Introvert, but always up for a good conversation  
 
 ---
 
