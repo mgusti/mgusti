@@ -13,7 +13,7 @@ I'm a web developer who enjoys building reliable systems and solving real-world 
 - Exploring better development workflows  
 
 ### 🧠 Also Into
-- 🌐 Networking & system configuration (just enough to break and fix things 😄)  
+- 🌐 Networking & system configuration
 
 ### 🤝 Open To
 - Collaboration on web projects  
